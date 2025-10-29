@@ -120,7 +120,7 @@ pip install -r requirements.txt
 | **converter_thread.py** | Handles FFmpeg-based conversions in a background thread        |
 | **utils.py**            | Provides file management, formatting, and validation utilities |
 | **watcher.py**          | Implements file monitoring using the Watchdog library          |
-| **ui_main.py**          | GUI layout, signal wiring, and settings persistence            |
+| **ffx_pro.py**          | GUI layout, signal wiring, and settings persistence            |
 | **main.py**             | Initializes the main application window                        |
 
 ---
